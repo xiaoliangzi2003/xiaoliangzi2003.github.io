@@ -1,0 +1,167 @@
+{
+  "main": {
+    "id": "06af8058df3418dc",
+    "type": "split",
+    "children": [
+      {
+        "id": "5d2f0f13d4a3c55b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a219208f0ba7ed91",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "5ca20f10a47be92f",
+    "type": "split",
+    "children": [
+      {
+        "id": "f1edf70dbe3f5168",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "af4ece751b796006",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "e8cd11d596855ec2",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "d5a3605967dee4b8",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "730fa3ff8ffbed89",
+    "type": "split",
+    "children": [
+      {
+        "id": "083036868a829e63",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "660cf1eaad698211",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "78b6ac86f38827ea",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "110ae6f90268ad5c",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "b80ce1f0f0d956a7",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "digitalgarden:Digital Garden Publication Center": false,
+      "publish:发布更改": false
+    }
+  },
+  "active": "a219208f0ba7ed91",
+  "lastOpenFiles": [
+    "docs/_sidebar.md",
+    "docs/新建 文本文档.txt",
+    "docs/计算机网络/第一章 计算机网络与因特网.md",
+    "docs/计算机网络",
+    "docs/计算机组成原理/第二章 数据的表示和运算/2.2 运算方法与运算电路.xmind",
+    "docs/计算机组成原理/第二章 数据的表示和运算",
+    "docs/计算机组成原理",
+    "docs/数据结构与算法/第二章 线性表.md",
+    "docs/数据结构与算法/第一章 绪论.md",
+    "docs/数据结构与算法",
+    "docs/操作系统/第二章 进程管理.md",
+    "docs/操作系统/第一章 计算机系统概述.md",
+    "docs/操作系统",
+    "README.md",
+    "docs/README.md",
+    "docs/index.html",
+    "docs",
+    "计算机组成原理/第一章 计算机系统.md",
+    "计算机组成原理/第二章 数据的表示与运算.md",
+    "test/测试.md",
+    "test"
+  ]
+}
